@@ -36,6 +36,9 @@ A plot is available in 'results.jpg'.
 
 @ 07-03-2017.
 
+I found a error with min's values in 'results.jpg', please, not consider the min/max values.
+
+@ 12-02-2018
 
  
  
